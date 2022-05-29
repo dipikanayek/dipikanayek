@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipikanayek
 - 👀 I’m interested in learning technical skills
-- 🌱 I’m currently learning Python(Advanced)
+- 🌱 I’m currently learning Python(Advanced) and C++
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: via LinkedIn or via Twitter: @DipikaNayek_
 
